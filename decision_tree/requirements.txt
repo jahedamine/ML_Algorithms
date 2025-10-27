@@ -1,0 +1,7 @@
+## `requirements.txt`
+
+```txt
+numpy
+seaborn
+matplotlib
+scikit-learn
