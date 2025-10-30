@@ -13,7 +13,7 @@ Je ne cherche pas à utiliser des frameworks tout faits — je construis chaque 
 ## Projets inclus
 
 | Algorithme          | Description                                               | Visualisation        |
-|---------------------|----------------------------------------------------------------------------------|
+|---------------------|-----------------------------------------------------------|----------------------|
 | Linear Regression   | Régression linéaire + Ridge + Lasso sur données médicales | Coefficients         |
 | Logistic Regression | Classification binaire sur cancer du sein                 | Matrice de confusion |
 | KNN                 | Classification multiclasse sur Iris avec `k=3`            | Matrice de confusion |
