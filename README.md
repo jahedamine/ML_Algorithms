@@ -22,6 +22,16 @@ Je ne cherche pas à utiliser des frameworks tout faits — je construis chaque 
 | SVM                 | SVM linéaire sur Iris avec visualisation des vecteurs de support | Frontières de décision |
 
 ---
+## Applications Business Réelles :
+
+Les modèles réimplémentés ici sont utilisés dans des systèmes industriels tels que :
+  scoring client & churn prediction
+  détection de fraude bancaire (SVM, RF)
+  diagnostic médical supervisé (Logistic Regression)
+  segmentation clients & marketing (KNN)
+  systèmes de recommandation basiques (KNN)
+  modèles de risque
+Ces briques fondamentales me permettent ensuite de construire des modèles plus complexes et spécialisés.
 
 ## Exécution
 
